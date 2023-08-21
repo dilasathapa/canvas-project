@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    background-color: #000;
+    color: #fff;
+  }
+  h1 {
+    font-family: cursive;
+    font-weight: bolder;
+    font-size: 50px;
+    text-align: center;
+    color: orange;
+  }
+  h3 {
+    background-color: #fff;
+    color: #000;
+    width: 15%;
+    padding: 0.1%;
+    position: absolute;
+    text-align: center;
+    left: 42%;
+    top: 10%;
+  }
+  p {
+    text-align: center;
+  }
+  canvas {
+    display: block;
+    background-color: #f6e9e9;
+    margin: 20px;
+  }
+  
